@@ -21,16 +21,16 @@ body {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-	height: 300px;
-	width: 180px;
+	height: 18.75rem;
+	width: 11.25rem;
 	padding: 10px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px 0.5px rgba(61, 58, 58, 0.2);
 }
 
 .qr-image {
-	height: 170px;
-	width: 175px;
+	height: 11rem;
+	width: 11rem;
 	border-radius: 6px;
 }
 
